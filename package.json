@@ -1,0 +1,46 @@
+{
+  "name": "cryptocurrency-charting-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HonorioTaveras/cryptocurrency-charting-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HonorioTaveras/cryptocurrency-charting-tool/issues"
+  },
+  "homepage": "https://github.com/HonorioTaveras/cryptocurrency-charting-tool#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "babel-loader": "^8.1.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "css-loader": "^4.3.0",
+    "express": "^4.17.1",
+    "file-loader": "^6.1.0",
+    "mongoose": "^5.10.5",
+    "nodemon": "^2.0.4",
+    "parser": "^0.1.4",
+    "path": "^0.12.7",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "style-loader": "^1.2.1",
+    "url-loader": "^4.1.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/polyfill": "^7.11.5",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4"
+  }
+}

@@ -14,6 +14,4 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, '/../public')));
 app.use(cors());
 
-app.get('/', (req, res) => 'hello world from get request');
-
 app.listen(PORT, () => console.log(`Listening at http://localhost:${PORT}`));

@@ -3,3 +3,8 @@
   top: 50%;
   left: 50%;
 }
+
+.chart {
+  margin-top: 5%;
+  justify-content: center;
+}

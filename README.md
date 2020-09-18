@@ -6,7 +6,7 @@ A single-page app for viewing the historical price data for Bitcoin.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -30,7 +30,7 @@ Navigate inside the directory './cryptocurrency-charting-tool' and run the follo
 $ npm i
 ```
 
-After all dependencies are installed, run the following commands to start the server and the react development enviornment:
+After all dependencies are installed, run the following commands in two seperate terminal windows to start the server and the react development enviornment:
 
 ```
 $ npm run start

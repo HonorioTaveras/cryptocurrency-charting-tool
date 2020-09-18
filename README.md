@@ -24,8 +24,6 @@ $ git clone https://github.com/HonorioTaveras/cryptocurrency-charting-tool.git
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
 Navigate inside the directory './cryptocurrency-charting-tool' and run the following commands:
 
 ```
